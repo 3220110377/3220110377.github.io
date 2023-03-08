@@ -1,7 +1,7 @@
 ## self-introduction
 
 My name is pinglei. 
-I am an IBI1 student at ZJU-UoE institute, Zhejiang University
+I am an IBI1 student at ZJU-UoE institute, Zhejiang University.
 
 ## School profile
 Zhejiang University-University of Edinburgh Institute (ZJE) is a Sino-foreign cooperative school jointly established by Zhejiang University and the world-class University-University of Edinburgh. 
